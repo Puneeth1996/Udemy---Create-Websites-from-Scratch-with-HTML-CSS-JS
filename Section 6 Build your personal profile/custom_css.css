@@ -1,0 +1,18 @@
+body {
+  margin: 25px;
+  background-color: lightblue;
+}
+
+#container {
+  display: block;
+  width: 40%;
+  margin: 0 auto;
+}
+
+#avatar {
+  width: 62%;
+}
+
+.custom-table {
+  width: 100%;
+}
